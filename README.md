@@ -3,7 +3,7 @@
 A new Flutter project.
 
 Project Screenshot
-![Main Page] (https://raw.githubusercontent.com/ZRShamim/Stats_preview_card_component/main/MainPage.PNG)
+![Main Page](https://raw.githubusercontent.com/ZRShamim/Stats_preview_card_component/main/MainPage.PNG)
 
 ## Getting Started
 
