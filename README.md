@@ -1,10 +1,13 @@
-## flutter_project_1
-# Daily Expenses
+# flutter_project_1
+## Daily Expenses
 
 A new Flutter project.
 
-#Project Screenshot
+## Project Screenshot
 ![Main Page](https://raw.githubusercontent.com/ZRShamim/Stats_preview_card_component/main/MainPage.PNG)
+![Add new transaction page](https://raw.githubusercontent.com/ZRShamim/Flutter_Project-1/main/AddNewTxPage.PNG)
+![Portrait 1](https://raw.githubusercontent.com/ZRShamim/Flutter_Project-1/main/Portrait1.PNG)
+![Portrait 2](https://raw.githubusercontent.com/ZRShamim/Flutter_Project-1/main/Portrait2.PNG)
 
 ## Getting Started
 
